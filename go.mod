@@ -1,4 +1,4 @@
-module github.com/iceber/iouring-go
+module github.com/ddbera95/iouring-go
 
 go 1.15
 
